@@ -1,0 +1,36 @@
+Title : Time Series Forcasting of Block-chain Based Cryptocurrency Using Machine Algorithms 
+
+Background :
+Motivation/objective :
+Research Gaps :
+Contributions :
+
+Data Collection : ----> done
+4 types of crypto currencies: 
+	1. Bitcoin (BTC-USD)
+	2. Etherium (ETH-USD)
+	3. Litcoin (LTC-USD)
+	4. BNB Coin (BNB-USD)
+
+Algorithms:
+* Machine Learning : 
+	SVM, 
+	Random Forrest,
+	Gradient Boosting Regressor (GBR),
+	XGBoost	
+
+Evaluation:
+* The regression performance was evaluated utilizing the metrics:
+	1. mean absolute percentage error (MAPE)
+	2. mean squared error (MSE)
+	3. R-squared (R^2)
+	4. mean absolute error (MAE) 
+	5. root-meansquare error (RMSE)
+
+
+
+
+
+
+
+
